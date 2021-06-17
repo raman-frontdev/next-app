@@ -27,7 +27,7 @@ function Eventitem(props){
                 </div>
                 <div className={classes.actions}>
                     <Link href={exploreLink}>
-                        Explore Event
+                        <a>Explore Event</a>
                     </Link>
                 </div>
             </div>
